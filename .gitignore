@@ -1,6 +1,6 @@
-./tmp
-./idea
-./vscode
-./__pycache__
+/tmp/
+/idea/
+/vscode/
+/__pycache__/
 *.pdf
 *.png
